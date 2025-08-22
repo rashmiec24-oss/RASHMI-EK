@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+content="width=device-width,
+initial-scale=1.0">
+  <title>My Protfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background: #4CAF50;
+      color: white;
+      padding: 15px;
+      text-align: center;
+    }
+    nav {
+      background: #333;
+      padding: 10px;
+      text-align: center;
+   }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+   }
+   main {
+      padding: 20px;
+  }
+  section {
+      margin-bottom: 30px;
+  }
+  h2 {
+      color: #4CAF50;
+  }
+  .project {
+      background: white;
+      padding: 15px;
+      margin: 10px 0;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+  }
+  from input, from textarea {
+      width: 100%;
+      padding: 10px;
+      margin: 5px 0;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+  }
+  from button {
+      background: #4CAF50;
+      color: white;
+      border: none;
+      padding; 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+  }
+  footer {
+      background: #333;
+      color: white;
+      text-align; center:
+      padding: 15px;
+      margin-top: 20px;
+  }
+ </style>
+</head>
+<body>
+ <header>
+  <h1>My Protfolio</h1>
+ </header>
+
+ <nav>
+   <a href="#about">About Me</a>
+  
+      
+   
+      
+      
